@@ -6,7 +6,7 @@
 using namespace std;
 
 
-int main()
+int first()
 {
 	setlocale(LC_CTYPE, "Russian");
 	string fileName;
